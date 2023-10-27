@@ -1,0 +1,16 @@
+{
+  "name": "week_7_7_assignment",
+  "version": "1.0.0",
+  "description": "Actual Week 7 Assignment, other is Week 6 Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maram",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.2.0",
+    "quickmongo": "^5.2.0"
+  }
+}

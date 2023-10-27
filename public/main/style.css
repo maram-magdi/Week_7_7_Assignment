@@ -1,0 +1,32 @@
+body {
+    background-color:rgb(173, 136, 173);
+    padding: 10px;
+}
+
+.box2 {
+    padding: 10px;
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    background-color: rgb(93, 57, 93);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(35, 35, 35);
+}
+
+p {
+    color: rgb(35, 35, 35);
+}
+
+h2{
+    color: rgb(35, 35, 35);
+}
+
+#initial-sign-in {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: flex-end;
+}
